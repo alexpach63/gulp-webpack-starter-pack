@@ -1,0 +1,22 @@
+{
+  "name": "gulp-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexpach63/gulp-webpack-starter-pack.git"
+  },
+  "author": "Alexander Pachianidi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexpach63/gulp-webpack-starter-pack/issues"
+  },
+  "homepage": "https://github.com/alexpach63/gulp-webpack-starter-pack#readme",
+  "devDependencies": {
+    "webpack": "^1.13.2"
+  }
+}
